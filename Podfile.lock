@@ -1,0 +1,33 @@
+PODS:
+  - BouncyLayout (2.3.0)
+  - lottie-ios (3.1.8)
+  - PixelEditor (0.2.3):
+    - PixelEngine (~> 0.2.2)
+    - TransitionPatch (~> 1.0.0)
+  - PixelEngine (0.2.3)
+  - TransitionPatch (1.0.2)
+
+DEPENDENCIES:
+  - BouncyLayout
+  - lottie-ios
+  - PixelEditor
+  - PixelEngine
+
+SPEC REPOS:
+  trunk:
+    - BouncyLayout
+    - lottie-ios
+    - PixelEditor
+    - PixelEngine
+    - TransitionPatch
+
+SPEC CHECKSUMS:
+  BouncyLayout: 946047ef4987959bc107731c665ca4fdcdef5e17
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  PixelEditor: 908203d4c65c7acd83334babffca3033b25b0f22
+  PixelEngine: 867df6a9938e5527c2ce43eb2784be589b36fc79
+  TransitionPatch: c02b48b1429255b14ef82b7e411034e0958b9681
+
+PODFILE CHECKSUM: bb1a86786dbeac8ef13ce42b378bd7d85be65630
+
+COCOAPODS: 1.9.3

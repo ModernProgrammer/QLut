@@ -1,0 +1,6 @@
+framework module Pods_QLut {
+  umbrella header "Pods-QLut-umbrella.h"
+
+  export *
+  module * { export * }
+}
